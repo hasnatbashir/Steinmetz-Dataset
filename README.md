@@ -19,4 +19,13 @@ The modelled response times were also compared to the real response times.
 - The activity of the visual cortical neurons aren’t a direct representation of the downstream decision making brain regions
 - No relationship may even exist between the variables studied
 
+# Project Members
+
+- Neel Agarwal
+- Andreja Stajduhar
+- Hasnat Bashir
+
+# Mentor
+- Christopher Fetsch
+
 
